@@ -1,0 +1,34 @@
+#conteudo {
+      background: #fa8072;
+      width: 100%;
+      height: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      padding: 5% 0%;
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    #botoes {
+      margin: auto;
+      width: 170px;
+    }
+
+    .botao {
+      background: black;
+      color: white;
+      border: none;
+      padding: 10px;
+      width: 80px;
+      border-radius: 50px;
+    }
+
+    #botaoSim {
+      position: fixed; 
+      display: block;
+    }
+
+    #botaoNao {
+      position: absolute;
+    }
