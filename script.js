@@ -5,8 +5,8 @@ function sim() {
 
 function desviar(btn) {
   btn.style.position = "absolute"
-  btn.style.bottom = geraPosicao(5, 95)
-  btn.style.left = geraPosicao(5, 95)
+  btn.style.bottom = geraPosicao(10, 90)
+  btn.style.left = geraPosicao(10, 90)
   console.log("Opa, desviei...")
 }
 
